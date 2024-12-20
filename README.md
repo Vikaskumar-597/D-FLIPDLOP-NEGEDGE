@@ -65,7 +65,8 @@ RegisterNumber:24900247
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot 2024-11-29 183628](https://github.com/user-attachments/assets/034f84ca-b963-43d5-8f07-7eb690608729)
+![201224](https://github.com/user-attachments/assets/4e17694c-921c-477c-839f-617ba521a320)
+
 
 
 **RESULTS**
